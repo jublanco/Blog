@@ -1,0 +1,58 @@
+body { 
+    background-color: #000000;
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    color: #fafafa;
+}
+
+h2 {
+    color: #fafafa;
+    font-size: 25px;
+    padding: 120px 0px 0px 20px;
+}
+
+p {
+    color: #fafafa;
+    font-size: 20px;
+    margin-top: -15px;
+    padding-left: 20px;
+}
+
+section {
+    width: 90%;
+    margin: auto;
+}
+
+.card-1 {
+    background: url("imagenes/assassins.jfif");
+}
+
+.card-2 {
+    background: url("imagenes/Filtran-The-Last-of-Us-Part-2-1.png");
+}
+
+.card-3 {
+    background: url("imagenes/Uncharted_4_Thief_s_end.jpg");
+}
+
+.card-4 {
+    background: url("imagenes/godofwar.jpg");
+}
+
+.card-5 {
+    background: url("imagenes/raider.jpeg");
+}
+
+.card {
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+    background-position: center center;
+    background-size: cover;
+    box-sizing: border-box;
+}
